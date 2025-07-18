@@ -1,6 +1,6 @@
 # Data Preprocessing Template
 
-This repository contains a Jupyter Notebook that demonstrates a general-purpose **data preprocessing pipeline** commonly used in machine learning workflows. It is for Linear Regression.
+This repository contains a Jupyter Notebook that demonstrates a general-purpose **data preprocessing pipeline** commonly used in machine learning workflows. It is for Linear Regression. The best thing of this Template is, that any one can use it for Data preprocessing. 
 
 ## 📌 Contents
 
